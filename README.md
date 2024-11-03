@@ -47,4 +47,4 @@ My goal is to create new and exciting experiences and tell wonderful stories tha
   <img align="left" alt="Alejo's LinkedIn" width="30px" src="https://simpleicons.now.sh/linkedin/CD9DCC" />
 </a>
 
-### &nbsp;&nbsp;**|** &nbsp;&nbsp; **Website & Gallery :** [rokneer.github.io/portfolio](rokneer.github.io/portfolio)
+### &nbsp;&nbsp;**|** &nbsp;&nbsp; **Website & Gallery :** [rokneer.github.io/portfolio](https://rokneer.github.io/portfolio/)
