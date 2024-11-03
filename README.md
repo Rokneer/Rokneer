@@ -9,7 +9,7 @@
     column-gap: 20px;"
   >
     <img
-      style="width: 320"
+      style="width: 320px"
       alt="A cartoony drawing in shades of purple of Alejandro, the GitHub owner, waving and smiling warmly."
       src="./assets/Me.png"
     >
