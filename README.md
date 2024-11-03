@@ -1,6 +1,6 @@
 # Hi there! My name is Alejandro
 
-**I design and develop games and other neat stuff** 🍅
+### **I design and develop games and other neat stuff** 🍅
 
 <img
   img align="left"
@@ -32,6 +32,8 @@ My goal is to create new and exciting experiences and tell wonderful stories tha
 <img alt="Photoshop" title="Photoshop" src="./assets/photoshop.svg" height="48">&nbsp;&nbsp;
 <img alt="Premiere" title="Premiere" src="./assets/premiere.svg" height="48">&nbsp;&nbsp;
 <img alt="FMOD" title="FMOD" src="./assets/fmod.svg" height="48">
+
+&nbsp;
 
 ----
 
