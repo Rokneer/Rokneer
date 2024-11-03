@@ -15,10 +15,8 @@ My goal is to create new and exciting experiences and tell wonderful stories tha
 
 ### Languages I'm good at
 
-<img alt="C#" title="C#" src="./assets/cSharp.svg" height="48">
-&nbsp;&nbsp;
-<img alt="TypeScript" title="TypeScript" src="./assets/typeScript.svg" height="48">
-&nbsp;&nbsp;
+<img alt="C#" title="C#" src="./assets/cSharp.svg" height="48">&nbsp;&nbsp;
+<img alt="TypeScript" title="TypeScript" src="./assets/typeScript.svg" height="48">&nbsp;&nbsp;
 <img alt="JavaScript" title="JavaScript" src="./assets/javaScript.svg" height="48">
 
 ### Engines I'm good at
@@ -29,14 +27,10 @@ My goal is to create new and exciting experiences and tell wonderful stories tha
 
 ### Other stuff I'm good at
 
-<img alt="Vue" title="Vue" src="./assets/vue.svg" height="48">
-&nbsp;
-<img alt="Nuxt" title="Nuxt" src="./assets/nuxt.svg" height="48">
-&nbsp;&nbsp;
-<img alt="Photoshop" title="Photoshop" src="./assets/photoshop.svg" height="48">
-&nbsp;&nbsp;
-<img alt="Premiere" title="Premiere" src="./assets/premiere.svg" height="48">
-&nbsp;&nbsp;
+<img alt="Vue" title="Vue" src="./assets/vue.svg" height="48">&nbsp;&nbsp;
+<img alt="Nuxt" title="Nuxt" src="./assets/nuxt.svg" height="48">&nbsp;&nbsp;
+<img alt="Photoshop" title="Photoshop" src="./assets/photoshop.svg" height="48">&nbsp;&nbsp;
+<img alt="Premiere" title="Premiere" src="./assets/premiere.svg" height="48">&nbsp;&nbsp;
 <img alt="FMOD" title="FMOD" src="./assets/fmod.svg" height="48">
 
 ----
