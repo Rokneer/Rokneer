@@ -43,8 +43,5 @@ My goal is to create new and exciting experiences and tell wonderful stories tha
 <a href="https://rokneer.itch.io/">
   <img align="left" alt="Alejo's itch.io" width="30px" src="https://simpleicons.now.sh/itchdotio/CD9DCC" />
 </a>
-<!-- <a href="https://linkedin.com/in/alejandro-hincapie">
-  <img align="left" alt="Alejo's LinkedIn" width="30px" src="https://simpleicons.now.sh/linkedin/CD9DCC" />
-</a> -->
 
 ### &nbsp;&nbsp;**|** &nbsp;&nbsp; **Website & Gallery :** [rokneer.github.io/portfolio](https://rokneer.github.io/portfolio/)
