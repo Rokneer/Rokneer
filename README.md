@@ -37,7 +37,7 @@ My goal is to create new and exciting experiences and tell wonderful stories tha
 
 ----
 
-<a href="https://linktr.ee/rokneer">
+<a href="https://linktr.ee/tomatedev">
   <img align="left" alt="Alejo's LinkTree" width="30px" src="https://simpleicons.now.sh/linktree/CD9DCC" />
 </a>
 <a href="https://rokneer.itch.io/">
